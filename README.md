@@ -7,8 +7,10 @@ yarn run start
 
 Screens: 
 Initial screen 
-![This is an image](https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0253.PNG| width=100)
+![This is an image](https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0253.PNG)
 
 On selecting option from dropdown list
-![This is an image](https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0252.PNG| width=100)
+![This is an image](https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0252.PNG)
+
+<img src="https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0252.PNG" width="200" height="400" />
 
