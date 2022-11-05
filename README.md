@@ -9,7 +9,7 @@ Screens:
 Initial screen 
 
 
-<img src="https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0253.PNG" width="300" height="400" />
+<img src="https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0253.PNG" width="200" height="400" />
 
-<img src="https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0252.PNG" width="300" height="400" />
+<img src="https://github.com/Nikitakumawat/PetsApp/blob/main/IMG_0252.PNG" width="200" height="400" />
 
